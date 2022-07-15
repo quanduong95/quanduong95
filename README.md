@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quan Duong</h1>
 <h3 align="center">A passionate frontend developer student @SacState, CA US</h3>
 
-- 🌱 I’m currently learning **React, SCSS**
+- 🌱 I’m currently learning **React, Redux, SCSS**
 
 - 👯 I’m looking to collaborate on **any web development project**
 
