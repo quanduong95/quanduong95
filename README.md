@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quan Duong</h1>
-<h3 align="center">A passionate frontend developer student @SacState, CA US</h3>
+<h3 align="center">A passionate frontend developer student @Sacramento State University, CA US</h3>
 
 - 🌱 I’m currently learning **React, SCSS**
 
