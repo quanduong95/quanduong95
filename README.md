@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quan Duong</h1>
 <h3 align="center">A frontend developer student @Sacramento State University, CA US</h3>
 
-- 🌱 I’m currently learning **React, SCSS**
-
-- 👯 I’m looking to collaborate on **any web development project**
-
 - 📫 How to reach me **quan.dn95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
