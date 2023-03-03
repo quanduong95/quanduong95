@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quan Duong</h1>
-<h3 align="center">A frontend developer student @Sacramento State University, CA US</h3>
+<h3 align="center">A CS student @Sacramento State University, CA US</h3>
 
 - 📫 How to reach me **quan.dn95@gmail.com**
 
