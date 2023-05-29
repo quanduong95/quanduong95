@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
-<h3 align="center">A passionate web developer based in California</h3>
+<h3 align="center">A passionate Senior CS student based in California</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanduong95" alt="quanduong95" /></a> </p>
 
