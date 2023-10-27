@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
 <h3 align="center">A passionate Senior CS student based in California</h3>
 
-- 🌱 I’m currently learning **ReactJS and NestJS**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **any kind of web development projects**
 
